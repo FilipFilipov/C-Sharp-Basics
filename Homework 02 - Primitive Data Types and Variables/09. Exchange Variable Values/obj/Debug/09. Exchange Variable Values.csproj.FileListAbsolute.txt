@@ -1,0 +1,5 @@
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb

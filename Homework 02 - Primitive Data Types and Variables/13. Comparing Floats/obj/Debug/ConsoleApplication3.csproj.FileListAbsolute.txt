@@ -1,0 +1,12 @@
+c:\users\filip\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\filip\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\filip\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\filip\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\filip\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+c:\users\filip\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache

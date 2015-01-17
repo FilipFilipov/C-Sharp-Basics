@@ -1,0 +1,5 @@
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\14. Print The ASCII Table\bin\Debug\_14.Print_The_ASCII_Table.exe.config
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\14. Print The ASCII Table\bin\Debug\_14.Print_The_ASCII_Table.exe
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\14. Print The ASCII Table\bin\Debug\_14.Print_The_ASCII_Table.pdb
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\14. Print The ASCII Table\obj\Debug\_14.Print_The_ASCII_Table.exe
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\14. Print The ASCII Table\obj\Debug\_14.Print_The_ASCII_Table.pdb
