@@ -1,5 +1,0 @@
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\02. Float Or Double\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\02. Float Or Double\obj\Debug\ConsoleApplication1.exe
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\02. Float Or Double\obj\Debug\ConsoleApplication1.pdb
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\02. Float Or Double\bin\Debug\ConsoleApplication1.exe
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\02. Float Or Double\bin\Debug\ConsoleApplication1.pdb

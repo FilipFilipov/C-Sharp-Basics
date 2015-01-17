@@ -1,6 +1,0 @@
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\10. Employee Data\bin\Debug\_10.Employee_Data.exe
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\10. Employee Data\bin\Debug\_10.Employee_Data.pdb
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\10. Employee Data\obj\Debug\10. Employee Data.csprojResolveAssemblyReference.cache
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\10. Employee Data\obj\Debug\_10.Employee_Data.exe
-C:\Users\filip\Documents\Visual Studio 2013\Projects\Homework 02 - Primitive Data Types and Variables\10. Employee Data\obj\Debug\_10.Employee_Data.pdb
