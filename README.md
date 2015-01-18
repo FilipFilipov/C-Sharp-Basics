@@ -1,2 +1,2 @@
 # C-Sharp-Basics-Homeworks
-Solutions to homework problems from http://softuni.bg.
+Solutions to homework and exam problems from http://softuni.bg.
