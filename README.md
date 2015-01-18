@@ -1,2 +1,2 @@
-# C-Sharp-Basics-Homeworks
+# C-Sharp-Basics
 For more programming courses visit http://softuni.bg.
